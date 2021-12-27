@@ -1,4 +1,4 @@
-# provskite_rotater
+# perovskite_rotater
 Rotational structure of an anionic octahedron on 2x2x2 supercell
 
 ## Description
